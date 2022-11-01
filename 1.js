@@ -8,7 +8,6 @@ class kvadratche {
     this.speed = speed;
   }
   update() {
-    this.a+=0.01+this.a/1000
     this.x += Math.cos(this.a) * this.speed;
     this.y += Math.sin(this.a) * this.speed;
   }
