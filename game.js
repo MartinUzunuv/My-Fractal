@@ -35,20 +35,3 @@ function update() {
     arr[i].update();
   }
 }
-
-// class baba{
-//     stara = 0;
-//     grozna = false;
-//     constructor(stara){
-//         this.stara = stara+10
-//     }
-//     rojdenDen(){
-//         this.stara++
-//         console.log("Ti veche si " + this.stara)
-//     }
-// }
-
-// viki = new baba(8)   //viki = {stara:18, grozna:false}
-// viki.stara = 61;     //viki = {stara:61, grozna:false}
-
-// cece = new baba(17)   //ceco = {stara:27, grozna:false}
